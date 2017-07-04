@@ -1,0 +1,2 @@
+*.sql
+!/sources/**/*.sql
